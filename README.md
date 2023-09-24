@@ -4,7 +4,7 @@ Hi 👋 My name is Tung Nguyen
 Software Engineer.
 -----------------
 
-Highly skilled software engineer with extensive experience in a variety of technologies. Proven ability to deliver high-quality, scalable, and reliable software solutions. Passionate about staying up-to-date with the latest industry trends and best practices, and excels in fast-paced and dynamic environments. Strong communication and teamwork skills.
+I have a passion for staying up to date with the latest technologies and trends, and I thrive on taking on new challenges.
 
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [nguyenththanhtung317@gmail.com](mailto:nguyenththanhtung317@gmail.com)
